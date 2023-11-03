@@ -8,7 +8,7 @@ function handleClick(event){
         document.querySelector('.screen1').classList.add('hide')
         document.querySelector('.screen2').classList.remove('hide')
 
-        document.querySelector('.screen2 h2').innerHTML = `Acertou em ${attempts} tentativas!`
+        document.querySelector('.screen2 h2').innerHTML = `Acertou em ${attempts} Tentativas!`
     }
     attempts ++
 }
