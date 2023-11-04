@@ -60,6 +60,10 @@ h1{
     font-family: 'Montserrat', sans-serif;
 }
 
+h3{
+    color: red;
+}
+
 form{
     display: flex;
     justify-content: center;
